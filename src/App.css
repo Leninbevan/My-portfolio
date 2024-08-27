@@ -1,0 +1,15 @@
+
+:root {
+    --primary: #73605B;
+    --secondary: #D09683;
+    --light: #F2F2F2;
+    --dark: #330000;
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color:var(--dark);
+}
